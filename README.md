@@ -7,17 +7,18 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Support Vector Machines Code-Along | [Link](./svm-starter-code.ipynb)|
+| Lesson | Support Vector Machines Code-Along | [Link](./starter-code.ipynb)|
 
-> Dataset Description: TBD
+> Dataset Description: MNIST Handwritten Digits Dataset
 ---
 
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. **Differentiate between** maximal margin classifiers, support vector classifiers, and support vector machines.
-2. **Implement** SVMs in `scikit-learn`.
-3. **Describe** the effects of `C` and kernels on SVMs.
+1. **Describe** linear separability.
+2. **Differentiate between** maximal margin classifiers, support vector classifiers, and support vector machines.
+3. **Implement** SVMs in `scikit-learn`.
+4. **Describe** the effects of `C` and kernels on SVMs.
 
 ---
 
@@ -35,19 +36,17 @@
 
 > **Total Time: 90 minutes**
 
-I. **Support Vector Machines** (45 minutes total)
+## Agenda
+I. **Support Vector Machines** (60 minutes total)
 - Intuition
 - Maximal Margin Classifiers
 - Support Vector Classifiers
 - Support Vector Machines
-- Support Vectors
 - Kernel Trick
 
-II. **Code-Along** (45 minutes total)
-- Visualizing SVMs
-- C
-- Kernels
+II. **Coding** (30 minutes total)
 ---
+
 
 ## OPTIONAL: Resources for Practice and Learning
 
