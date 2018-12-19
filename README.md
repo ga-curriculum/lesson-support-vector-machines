@@ -54,7 +54,7 @@ II. **Coding** (30 minutes total)
 - For an excellent resource with visuals, check out [these slides](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf) from the University of Oxford.
 - For a more academic resource that walks through identifying the separating hyperplane and corresponding margin, check out [these Stanford notes](https://nlp.stanford.edu/IR-book/html/htmledition/support-vector-machines-the-linearly-separable-case-1.html).
 - SVM documentation on [SKLearn](http://scikit-learn.org/stable/modules/svm.html)
-- Iris example on [SKLearn](http://scikit-learn.org/stable/auto_examples/svm/plot_iris.html#example-svm-plot-iris-py)
+- Visualization of different kernels with iris data [SKLearn](https://scikit-learn.org/stable/auto_examples/exercises/plot_iris_exercise.html#sphx-glr-auto-examples-exercises-plot-iris-exercise-py)
 - Hyperplane walkthrough on [SKLearn](http://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane.html#example-svm-plot-separating-hyperplane-py)
 - A comprehensive [user guide](http://pyml.sourceforge.net/doc/howto.pdf) to support vector machines.
 - A [blog post tutorial](http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/) of understanding the linear algebra behind SVM hyperplanes. Check [part 3](http://www.svm-tutorial.com/2015/06/svm-understanding-math-part-3/) of this blog on finding the optimal hyperplane
