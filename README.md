@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Support Vector Machines Code-Along | [Link](./starter-code.ipynb)|
+| Lesson | Support Vector Machines Code-Along | [Link](https://colab.research.google.com/github/ga-curriculum/lesson-support-vector-machines/blob/master/starter-code.ipynb){:target="_blank"}|
 
 > Dataset Description: MNIST Handwritten Digits Dataset
 ---
